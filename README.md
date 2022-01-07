@@ -2,7 +2,7 @@
 
 
 ### 🧑‍💻
-<!--
+
 
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Flask and Machine Learning
@@ -11,4 +11,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ashish-jangir)
 - 😄 Pronouns: ... He/Him
--->
+
